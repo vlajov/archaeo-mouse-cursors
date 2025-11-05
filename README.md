@@ -49,6 +49,12 @@ A collection of themed cursor files designed with an archaeological aesthetic fo
 
 For company-wide deployment using Active Directory Group Policy, see [GPO-DEPLOYMENT.md](GPO-DEPLOYMENT.md).
 
+### Automated GPO Deployment Script
+
+For automated GPO creation, use the PowerShell script: [Deploy-CursorGPO-Generic.ps1](Deploy-CursorGPO-Generic.ps1)
+
+**Related Discussion**: [PS1 script to deploy custom mouse cursors works but files are not copied to client PCs](https://learn.microsoft.com/en-us/answers/questions/5610841/ps1-script-to-deploy-custom-mouse-cursors-works-bu)
+
 ## Compatibility
 
 - **OS**: Windows 7, 8, 10, 11

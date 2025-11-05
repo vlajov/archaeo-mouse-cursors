@@ -156,7 +156,6 @@ gpupdate /force
 - **No file permissions to manage** - Uses SYSVOL security model
 - **Centralized management** - All configuration in single GPO
 - **Atomic deployment** - Files and registry settings applied together
-- **Automatic cleanup** - GPO removal cleans up files and settings
 
 ## Verification
 

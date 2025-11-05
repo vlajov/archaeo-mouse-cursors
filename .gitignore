@@ -5,6 +5,7 @@ ehthumbs_vista.db
 
 # Folder config file
 [Dd]esktop.ini
+mcp.json
 
 # Recycle Bin used on file shares
 $RECYCLE.BIN/
@@ -26,3 +27,4 @@ $RECYCLE.BIN/
 
 # System files
 .DS_Store
+Deploy-CursorGPO.ps1
